@@ -43,7 +43,6 @@ htmlcov/
 Thumbs.db
 
 # Project specific
-output/
 *.log
 
 # Made with Bob
